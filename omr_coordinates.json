@@ -1,0 +1,109 @@
+{
+    "student_id": {
+        "x1": 138,
+        "y1": 484,
+        "x2": 671,
+        "y2": 929,
+        "page": 0,
+        "values": [
+            "0",
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "orientation": "vertical",
+        "bubbles_per_field": 10,
+        "fields": 10,
+        "bubble_width": 14,
+        "bubble_height": 14,
+        "darkness_threshold": 0.4
+    },
+    "answer_regions": [
+        {
+            "x1": 204,
+            "y1": 1185,
+            "x2": 474,
+            "y2": 1971,
+            "page": 0,
+            "values": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "orientation": "vertical",
+            "bubbles_per_field": 5,
+            "fields": 1,
+            "bubble_width": 14,
+            "bubble_height": 14,
+            "darkness_threshold": 0.4
+        },
+        {
+            "x1": 536,
+            "y1": 1177,
+            "x2": 816,
+            "y2": 1967,
+            "page": 0,
+            "values": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "orientation": "vertical",
+            "bubbles_per_field": 5,
+            "fields": 1,
+            "bubble_width": 14,
+            "bubble_height": 14,
+            "darkness_threshold": 0.4
+        },
+        {
+            "x1": 878,
+            "y1": 1192,
+            "x2": 1153,
+            "y2": 1984,
+            "page": 0,
+            "values": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "orientation": "vertical",
+            "bubbles_per_field": 5,
+            "fields": 1,
+            "bubble_width": 14,
+            "bubble_height": 14,
+            "darkness_threshold": 0.4
+        },
+        {
+            "x1": 1215,
+            "y1": 1183,
+            "x2": 1492,
+            "y2": 1978,
+            "page": 0,
+            "values": [
+                "A",
+                "B",
+                "C",
+                "D",
+                "E"
+            ],
+            "orientation": "vertical",
+            "bubbles_per_field": 5,
+            "fields": 1,
+            "bubble_width": 14,
+            "bubble_height": 14,
+            "darkness_threshold": 0.4
+        }
+    ]
+}
